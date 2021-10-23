@@ -1,1 +1,2 @@
 var1=array
+exit = 1
